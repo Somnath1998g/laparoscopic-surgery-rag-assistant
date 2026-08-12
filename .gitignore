@@ -3,3 +3,11 @@ __pycache__/
 *.pyc
 .env
 .ipynb_checkpoints/
+data/
+vector_store/data/
+vector_store/
+venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
